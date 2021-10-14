@@ -89,12 +89,12 @@ public class BasicProgrammingApp {
 
         int l=0;
 
-        for (int k=100;k>=0;k--) {
+        for (int k=99;k>=0;k--) {
 
             System.out.print(k+"-"+l);
             l++;
 
-            if (l<=100){
+            if (l<=99){
                 System.out.print("-");
             }
 
