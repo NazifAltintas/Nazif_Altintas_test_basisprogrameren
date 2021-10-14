@@ -65,7 +65,7 @@ public class BasicProgrammingApp {
         System.out.println("Alle getallen van 0 tot 2000 maar wanneer het een van de 4 getallen tegenkomt.");
 
 
-        for (int j = 0; j <= 2000; j++) {
+        for (int j = 0; j < 2000; j++) {
 
             System.out.print(j);
 
