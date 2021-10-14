@@ -59,6 +59,9 @@ public class BasicProgrammingApp {
 
         }
         System.out.println("");
+        
+//         Print alle getallen van 0 tot 2000 maar wanneer het een van de 4 getallen tegenkomt, stopt de loop.
+        
         System.out.println("Alle getallen van 0 tot 2000 maar wanneer het een van de 4 getallen tegenkomt.");
 
 
